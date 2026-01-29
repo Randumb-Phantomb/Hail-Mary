@@ -246,7 +246,7 @@ Paladin Commander
 	mask = /obj/item/clothing/mask/gas/sechailer
 	ears = /obj/item/radio/headset/headset_bos/command
 	suit = /obj/item/clothing/suit/armor/power_armor/t51b/hardened
-	suit_store = /obj/item/shield/riot/bullet_proof 
+	suit_store = /obj/item/minigunpack
 	head = /obj/item/clothing/head/helmet/f13/power_armor/t51b/bos
 	neck = /obj/item/storage/belt/shoulderholster
 	backpack_contents = list(
